@@ -13,7 +13,7 @@ section{
     width:100%;
     padding:0;
     margin:0;
-    height:800px;
+    /* height:800px; */
 }
 .bg-black{
       background: rgb(0, 0, 0);
@@ -23,10 +23,10 @@ section{
 }
 .container{
     margin:auto;
-    display:block;
+    display:flex;
     padding:0;
     width:1200px;
-    text-align:center;
+    align-items:center;
     padding-top:30px;
 }
 .text-white{
@@ -34,7 +34,6 @@ section{
     font-size: xx-large;
     width:50%;
     margin:0;
-    /* padding-top:auto; */
 }
 h1{
     width:100%;
@@ -43,8 +42,7 @@ h1{
     float:right;
     width:50%;
     margin:0;
-    /* padding-top:30px; */
-    
+    padding:65px 0px;
 }
 .rwanda img{
     width:100%;
@@ -79,7 +77,4 @@ width:40%
 }
 .cla-90{
     width:90%
-}
-.cla-100{
-    width:100%;
 }
