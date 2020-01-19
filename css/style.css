@@ -8,12 +8,9 @@ header{
    text-align: center;
    width:100%;
 }
-section{
+.bg-grey{
     background: #2E2E2E;
-    width:100%;
-    padding:0;
-    margin:0;
-    /* height:800px; */
+     padding:20px 0;
 }
 .bg-black{
       background: rgb(0, 0, 0);
@@ -24,57 +21,46 @@ section{
 .container{
     margin:auto;
     display:flex;
-    padding:0;
     width:1200px;
-    align-items:center;
-    padding-top:30px;
-}
-.text-white{
-    color:white;
-    font-size: xx-large;
-    width:50%;
-    margin:0;
 }
 h1{
     width:100%;
 }
-.rwanda{
-    float:right;
+.col-50{
     width:50%;
-    margin:0;
-    padding:65px 0px;
 }
-.rwanda img{
+.col-50 img{
     width:100%;
     margin:0;
-    padding:0;
 }
-.row{}
+.col-50{
+  color:white;
+    font-size: xx-large; 
+    width:50%;
 
-.cla-10{
+}
+
+.col-10{
     width:10%;
 }
-.cla-20{
+.col-20{
 width:20%
 }
-.cla-30{
+.col-30{
     width:30%
 }
-.cla-40{
+.col-40{
 width:40%
 }
-.cla-50{
-    width:50%
-}
-.cla-60{
+.col-60{
     width:60%;
 }
-.cla-70{
+.col-70{
     width:70%;
 }
-.cla-80{
+.col-80{
     width:80%;
 }
-.cla-90{
+.col-90{
     width:90%
 }
