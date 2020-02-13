@@ -24,6 +24,7 @@ header {
   margin: 0 auto;
   display: flex;
   width: 1200px;
+  align-items: center;
 }
 h1 {
   width: 100%;
@@ -36,7 +37,7 @@ h1 {
   color: white;
   font-size: 30px;
 }
-.weed {
+.image {
   width: 100%;
 }
 .col-10 {
